@@ -1,4 +1,4 @@
-# Hello World
+# Jayden's INCREDIBLE Portfolio
 
 This is my home page! My name is Jayden Le and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
